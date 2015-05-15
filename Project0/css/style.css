@@ -1,0 +1,12 @@
+body {
+	color: red;
+}
+.title {
+	font-family: Comic, Arial, Helvetica;
+	font-weight: bolder;
+	font-size: 55px;
+}
+.message {
+	font-variant: small-caps;
+	font-size: large;
+}
